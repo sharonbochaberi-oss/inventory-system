@@ -27,7 +27,7 @@ inventory-system/
 Setup & Installation
 1. Clone & Navigate
 Bash
-git clone <your-github-repo-url>
+git clone <https://github.com/sharonbochaberi-oss/inventory-system.git>
 cd inventory-system
 
 2. Set Up Virtual Environment
